@@ -3,7 +3,7 @@
 .header-container{
   width: 100vw;
   height: 70px;
-  background-color: #32a852;
+  background-color: #2881e6;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -95,7 +95,7 @@
  }
   
  .blog-preview:hover{
-  background-color: #32a852;
+  background-color: #2881e6;
   color: #fff;
   box-shadow: 0 0 10px 0.5 #000;
  }

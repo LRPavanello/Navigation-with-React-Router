@@ -16,7 +16,7 @@ const BlogPage = () => {
             <p className="blog-author">{my_blogs[blog_id].author}</p>
             <p className="blog-date">{my_blogs[blog_id].date}</p>
           </div>
-          <img src="./public/img/header.png" className="hero-image" alt="" />
+          <img src="./img/header.png" className="hero-image" alt="" />
           <div className="blog-content">
             <p className="blog-text">{my_blogs[blog_id].content}</p>
           </div>
