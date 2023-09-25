@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "stackup-luisrpavanello"
-  }
+    "default": "luisrpavanello-blogapp",
+    "production": "luisrpavanello-blogapp"
+  },
+  "targets": {},
+  "etags": {}
 }
