@@ -2,6 +2,13 @@
 
 Welcome to the React Blog Site project! In this tutorial, you will learn the basics of navigation and how to navigate between different pages in a React application. As you may already know, React is a Single Page Application (SPA) framework, which means it loads a single HTML file and dynamically updates the page content without requiring multiple HTML files.
 
+## 🚀 Preview <a name="Preview"></a>
+
+- [Preview Link](https://luisrpavanello-blogapp.web.app)
+
+<img src="print.png" alt="logo" width="auto"  height="auto" />
+
+
 ## Project Overview
 
 In this tutorial, we will create a multi-page blog site as a web application. The web application will consist of the following main features:
